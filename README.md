@@ -6,9 +6,15 @@ Here are my solutions to the [adventJS](https://adventjs.dev/) 2022 edition.
 
 | Challenge | Solution |
 | --- | --- |
-| 1 | [Challenge #1: Automating Christmas gift wrapping!](/challenge01/) |
-| 1 | [Challenge #2: Nobody wants to do extra hours at work](/challenge02/) |
+| #1 | [Automating Christmas gift wrapping!](/challenge01/) |
+| #2 | [Nobody wants to do extra hours at work](/challenge02/) |
 
+
+## Installation
+
+```bash
+npm install
+```
 
 ## Other Community Solutions
 
