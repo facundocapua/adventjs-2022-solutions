@@ -1,0 +1,28 @@
+{
+  "name": "adventjs-2022-solutions",
+  "version": "1.0.0",
+  "description": "Here are my solutions to the [adventJS](https://adventjs.dev/) 2022 edition.",
+  "type": "module",
+  "scripts": {
+    "challenge01": "mocha challenge01/solution.test.js",
+    "challenge02": "mocha challenge02/solution.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facundocapua/adventjs-2022-solutions.git"
+  },
+  "author": "Facundo Capua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facundocapua/adventjs-2022-solutions/issues"
+  },
+  "homepage": "https://github.com/facundocapua/adventjs-2022-solutions#readme",
+  "devDependencies": {
+    "eslint": "8.28.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-n": "15.5.1",
+    "eslint-plugin-promise": "6.1.1",
+    "mocha": "^10.1.0"
+  }
+}
