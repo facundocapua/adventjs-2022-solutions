@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "challenge01": "mocha challenge01/solution.test.js",
-    "challenge02": "mocha challenge02/solution.test.js",
-    "preinstall": "node preinstall.js"
+    "challenge02": "mocha challenge02/solution.test.js"
   },
   "repository": {
     "type": "git",
